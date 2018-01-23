@@ -1,0 +1,9 @@
+# IDE
+/.idea/
+
+# Modules
+/node_modules/
+
+# Build
+/public/
+/npm-debug.log*
